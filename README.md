@@ -8,7 +8,7 @@ O principal objetivo da solução é automatizar o fluxo de recebimento de docum
 
 O desenho técnico mapeia o fluxo completo dos dados desde o upload até a persistência no banco de dados NoSQL:
 
-![Arquitetura do Pipeline](imagens/Pipeline de Dados Serverless de Ponta a Ponta para .jpg)
+![Arquitetura do Pipeline](https://github.com/AndersonSarmento/aplicacao_nota_fiscal/raw/main/imagens/Pipeline%20de%20Dados%20Serverless%20de%20Ponta%20a%20Ponta%20para%20.jpg)
 
 ### 📝 Resumo Executivo do Fluxo
 

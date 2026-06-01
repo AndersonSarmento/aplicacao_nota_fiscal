@@ -1,4 +1,4 @@
-# End-to-End Serverless Data Pipeline for Invoice Processing using AWS and Streamlit
+# Pipeline de Dados Serverless de Ponta a Ponta para Processamento de Notas Fiscais usando AWS e Streamlit
 
 Este projeto consiste em um pipeline de engenharia de dados de ponta a ponta (End-to-End) totalmente Serverless e orientado a eventos para a ingestão, extração de texto, armazenamento e estruturação de dados de Notas Fiscais (PDF). 
 
